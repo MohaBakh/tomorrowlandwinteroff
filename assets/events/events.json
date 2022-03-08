@@ -1,7 +1,7 @@
 [
   {
     "date": "saturday_19",
-    "datetime": "22h-23h",
+    "datetime": "23h-00h",
     "venue": "Zoo bar",
     "venue_link": "http://magicalwinteroff.com/map.html",
     "style": "House",
@@ -10,43 +10,37 @@
   },
   {
     "date": "saturday_19",
-    "datetime": "23h-01h",
+    "datetime": "00h-02h",
     "venue": "Zoo bar",
     "venue_link": "http://magicalwinteroff.com/map.html",
-    "style": "tba",
+    "style": "Tech House & Future House",
+    "artists": "T.P. B2B MOBAK",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
+  },
+  {
+    "date": "saturday_19",
+    "datetime": "01h-02h",
+    "venue": "Zoo bar",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "Future House",
     "artists": "MOBAK",
     "artists_link": "http://magicalwinteroff.com/artists.html"
   },
   {
-    "date": "saturday_19",
-    "datetime": "01h-03h",
-    "venue": "Zoo bar",
-    "venue_link": "http://magicalwinteroff.com/map.html",
-    "style": "EDM",
-    "artists": "T.P.",
-    "artists_link": "http://magicalwinteroff.com/artists.html"
-  },
-  {
-    "date": "saturday_19",
-    "datetime": "22h-2h",
-    "venue": "Smithy's Tavern",
-    "venue_link": "http://magicalwinteroff.com/map.html",
-    "style": "tba",
-    "artists": "tba",
-    "artists_link": "http://magicalwinteroff.com/artists.html"
+   
   },
   {
     "date": "sunday_20",
-    "datetime": "22h-0h",
+    "datetime": "OOh-01h",
     "venue": "Zoo bar",
     "venue_link": "http://magicalwinteroff.com/map.html",
-    "style": "tba",
+    "style": "House",
     "artists": "Mino",
     "artists_link": "http://magicalwinteroff.com/artists.html"
   },
   {
     "date": "sunday_20",
-    "datetime": "0h-3h",
+    "datetime": "01h-02h",
     "venue": "Zoo Bar",
     "venue_link": "http://magicalwinteroff.com/map.html",
     "style": "Trance",
@@ -55,46 +49,46 @@
   },
   {
     "date": "monday_21",
-    "datetime": "22h-00h",
+    "datetime": "TBA",
     "venue": "Smithy's Tavern",
     "venue_link": "http://magicalwinteroff.com/map.html",
-    "style": "tba",
-    "artists": "MOBAK",
-    "artists_link": "http://magicalwinteroff.com/artists.html"
-  },
-  {
-    "date": "monday_21",
-    "datetime": "00h-2h",
-    "venue": "Smithy's Tavern",
-    "venue_link": "http://magicalwinteroff.com/map.html",
-    "style": "tba",
+    "style": "Tech House",
     "artists": "T.P.",
     "artists_link": "http://magicalwinteroff.com/artists.html"
   },
   {
     "date": "monday_21",
-    "datetime": "2h-3h",
+    "datetime": "TBA",
     "venue": "Smithy's Tavern",
     "venue_link": "http://magicalwinteroff.com/map.html",
-    "style": "tba",
+    "style": "Future House",
+    "artists": "MOBAK",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
+  },
+  {
+    "date": "monday_21",
+    "datetime": "TBA",
+    "venue": "Smithy's Tavern",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "Trance, Progressive Techno",
     "artists": "Alex Wackii",
     "artists_link": "http://magicalwinteroff.com/artists.html"
   },
    {
     "date": "monday_21",
-    "datetime": "23h-1h",
+    "datetime": "00h-01h",
     "venue": "Zoo bar",
     "venue_link": "http://magicalwinteroff.com/map.html",
-    "style": "tba",
+    "style": "House & Tech House",
     "artists": "Florian Svein",
     "artists_link": "http://magicalwinteroff.com/artists.html"
   },
   {
     "date": "monday_21",
-    "datetime": "1h-3h",
+    "datetime": "01h-02h",
     "venue": "Zoo bar",
     "venue_link": "http://magicalwinteroff.com/map.html",
-    "style": "tba",
+    "style": "House & Tech House",
     "artists": "Fabian Dori",
     "artists_link": "http://magicalwinteroff.com/artists.html"
   }
